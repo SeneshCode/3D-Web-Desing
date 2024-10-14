@@ -9,7 +9,7 @@ This project is built for learning and exploring the integration of 3D design an
 - **[React.js](https://react.dev/):** A JavaScript library for building user interfaces.
 - **[Vite](https://vite.dev/guide/):** A fast and modern build tool for web projects.
 - **[Drei](https://github.com/pmndrs/drei):** A collection of useful helpers and abstractions for React Three Fiber.
-- **[Facetype](https://gero3.github.io/facetype.js/):** A library used for creating 3D text, perfect for adding text elements to 3D scenes.that git hub repo is <a href="https://github.com/pmndrs/gltfjsx?tab=readme-ov-file">Click Here</a>
+- **[Facetype](https://gero3.github.io/facetype.js/):** A library used for creating 3D text, perfect for adding text elements to 3D scenes.
 - **[3D Models](https://market.pmnd.rs/):** A marketplace for high-quality 3D models.
 
 ## Additional Resources
